@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>Regester</title>
+<style>
+.outer{
+	border:1px solid black;
+	width:1500px;
+	height:700px;
+}
+.outer1{
+	border:1px solid black;
+	background-image:url("4.jpg");
+	background-size:cover;
+	width:1500px;
+	height:700px;
+}
+.inner1{
+	border:10px solid white;
+	width:400px;
+	height:500px;
+	background-color:white;
+	margin-left:550px;
+	margin-top:80px;
+	
+}
+td {
+  width: 150px;
+  text-align: left;
+  padding: 10px;
+}
+
+</style>
+</head>
+<body>
+<div class="outer">
+<div class="outer1">
+<div class="inner1">
+<center><h1>Regestration Form. </h1>
+<form name="form2">
+<table>
+<tr>
+<td ><font size=4>First Name</font></td>
+<td><input type="text" name="fname" placeholder="First Name"></td>
+</tr>
+<tr>
+<td class="td"><font size=4>Last Name</font></td>
+<td><input type="text" name="lname" placeholder="Last Name"></td>
+</tr>
+<tr>
+<td class="td"><font size=4>User Name</font></td>
+<td><input type="text" name="uname" placeholder="User Name"></td>
+</tr>
+<tr>
+<td class="td"><font size=4>Emaill Address</font></td>
+<td><input type="email" name="email" placeholder="Emaill Address"></td>
+</tr>
+<tr>
+<td align="left"><font size=4>Password</font></td>
+<td><input type="password" name="pass" placeholder="Password"></td>
+</tr>
+</tr>
+<td class="td"><font size=4>Confirm Password</font></td>
+<td><input type="password" name="cpass" placeholder="Retype Password"></td>
+</tr>
+<tr>
+<td class="td"colspan=2 class="td"><input type="checkbox" name="agree" >I agree to conditions and tems</td>
+</tr>
+</table>
+<br><br>
+<button type="submit" onclick="validate();">Regester</button>
+<button type="reset" >Clear</button><br>
+</form>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="regester.js"></script> 
+</body>
+</html>
