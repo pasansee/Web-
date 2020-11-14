@@ -1,0 +1,77 @@
+ body{
+            background-color:black;
+            margin:0px;
+             font-family: 'Merienda One', cursive;
+            color:aqua;
+           background-image: url(BK.jpeg);
+            background-repeat:no-repeat;
+            border: 0px;
+            padding: 0px;
+        }
+        
+         .header{
+             padding:10px;
+             text-align:left;
+             color:azure;            
+             font-size: 20px;       
+         }
+
+.portfolio-items-wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.portfolio-item-wrapper {
+  position: relative;
+}
+
+.portfolio-img-background {
+  background-size: cover;
+  background-position:left;
+  background-repeat: no-repeat;
+  height: auto;
+  width: auto;
+}
+
+ .subtitle           {
+  position: absolute; 
+  top:0;  
+  right: 0%;
+  color: #f1f1f1; 
+  width: 50%; 
+  padding: 40px; 
+  font-weight: 600;
+ 
+    }
+.img-text-wrapper:hover .subtitle{
+    transition: .01s;
+    font-weight: 600;
+    color: transparent;
+}
+.img-text-wrapper:hover .subtitle{
+    font-weight: 600;
+    color:aqua; 
+}
+.img-darken{
+    transition: 0.1s;
+    filter:brightness(60%);
+}
+
+.btn {
+position:absolute;
+  top: 100%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color:transparent;
+  color:greenyellow;
+  font-size: 19px;
+  padding: 8px 20px;
+  border: none;
+  cursor:pointer;
+  border-radius: 50px;
+  text-align:right;
+   font-family: 'Merienda One', cursive;
+
+}
+
