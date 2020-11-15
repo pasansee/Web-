@@ -1,0 +1,299 @@
+<!doctype html>
+<html>
+<head>
+	<title>Systematic - An Accounting Firm</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+<!--css for popup modal-->
+<style>
+    * { margin: 0; padding:10; }
+
+a { text-decoration: none; }
+
+.clearfix { overflow: auto }
+
+
+    
+.hero-image {
+  background-image:url("videoblocks-abstract-clouds-of-colored-smoke-over-a-black-and-red-lights-on-black-background-in-studio_b_z3xwepom_thumbnail-1080_01.png");
+  
+     
+  background-color:#e6ffff;
+   
+    
+  height:1500px;
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 100%;
+  left: 100%;
+  transform: translate(100%, 100%);
+  color: white;
+}
+
+
+header .logo {
+	margin-top: 10px;
+	margin-left: 10px; 
+	float: left;
+}
+
+header.logo  { 
+	font-size: 10px;
+	font-weight: normal;
+	letter-spacing: -1px;
+	font-variant: small-caps;
+}
+
+    
+    
+
+.socialmedia { 
+	float: right; 
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+.socialmedia ul { 
+	list-style: none 
+}
+
+.socialmedia ul li { 
+	display: inline 
+}
+
+.socialmedia ul li a {
+	margin-left: 5px;
+	padding: 6px;
+	background: #444;
+	color: #fff;
+	display: inline-block;
+	border-radius: 20px;
+}
+
+.socialmedia ul li a:hover {
+	background:#00ff99 ;
+}  
+    
+  .row{
+		margin-left:80px;
+		margin-right:10px;
+		overflow:auto;
+	}
+	.column{
+		float:left;
+		width:20%;
+		padding:20px;
+	}
+	
+	.column img{
+		
+		height:400px;
+	}
+	
+	.desc{
+		text-align: center;
+		font-size: 32;
+		font-family: Lucida Bright;
+	}
+	
+	  
+nav {
+    
+
+	margin-top: 0px;
+	background:#009999;
+	background: linear-gradient(#009999);
+	text-align: center;
+	border-radius: 3px;
+
+    border-style: double;
+    border-width: 10px;
+}
+
+nav ul {
+	list-style:initial;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul li a {
+	color: #fff;
+	text-transform: uppercase;
+	margin: 20px 40px 20px 40px;
+	display: inline-block;
+
+}
+
+nav ul li a:hover {
+	color: sandybrown;
+}
+   
+</style>
+    
+ 
+    
+    
+	<div class="hero-image">
+          <header class="clearfix">
+			<div class="logo">
+             <img src= "icone.jpeg" alt=  "logo" width="200" >
+     </div> <!-- logo -->
+          </header>
+      <div>
+          <nav>
+            <ul class="double">
+                <li><a href="#">Home</a></li>
+				<li><a href="#">Movies </a></li>
+				<li><a href="#">Theaters</a></li>
+				<li><a href="#">Experiences</a></li>
+				<li><a href="#">Blog</a></li>
+                <li><a href="#">Buy Move Tickets</a></li>
+				<li><a href="#">Log In</a></li>
+           </ul>
+        </nav>
+          
+</div>
+        <br><br><br>
+    <div>
+        <div class="socialmedia">
+				<ul>
+					<li><a href="https://www.facebook.com/vitaliagarden/"><i class="fa fa-facebook fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-instagram  fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-whatsapp fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-snapchat fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-google-plus fa-fw" aria-hidden="true"></i></a></li>
+				</ul>
+			</div> <!-- socialmedia -->
+    </div>
+        
+        
+<!--Movie List Page-->  
+        
+ <hr>
+	<br><br>
+	<h1  style="color:#00e68a" class="desc" > NOW SHOWING</h1>
+	<br><br>
+	<div class="row">
+	    <div class="column">
+         <a href="https://www.facebook.com/vitaliagarden/">
+            <img src="mulan.jpeg"style="width:100%"></a>
+              <div class="desc"><a href="#"style="color:#99ccff">MULAN</a></div>
+		   </div>
+	
+		     <div class="column">
+                  <a href="#">
+                    <img src="miss jennis.jpg" alt="miss jennis movie poster" style="width:100%" ></a>
+                     <div class="desc"><a href="#" style="color:#99ccff"> MISS JENNIS</a></div>
+		      </div>
+	
+		            <div class="column">
+                        <a href="#">
+                          <img src="onward.jpg" alt="onward movie poster" style="width:100%"></a>
+                            <div class="desc"><a href="#" style="color:#99ccff">ONWARD</a></div>
+		             </div>
+	
+                           <div class="column">
+                               <a href="#">
+                                <img src="antebellum.png" alt="antebellum movie poster" style="width:100%" ></a>
+                                 <div class="desc"><a href="#" style="color:#99ccff">ANTEBELLUM</a></div>
+		                    </div>
+	       </div><br><br>
+        
+	
+	<br><br>
+        <a href="#####">
+            <h1  style="color:#00e68a" class="desc" > <i> LIVE SHOWS</i></h1></a>
+	<br><br>
+	<div class="row">
+          <div class="column">
+            <a href="#">
+                <img src="178.jpg" alt="Rookada panchi movie poster" style="width:100%"></a>
+            <div class="desc"><a href=""style="color:#99ccff"> DADDY</a></div>
+		  </div>
+        
+           <div class="column">
+               <a href="#">
+                  <img src="maxresdefault.jpg" alt="Tenet panchi movie poster" style="width:100%"></a>
+                    <div  class="desc"><a href="#"style="color:#99ccff">INFINITY</a></div>
+            </div>
+            
+    </div>
+        
+        
+</div> 
+    
+    <!--big scren-->
+         <div class="content ">
+           <a  href="#sahan blog#">   
+                <div class="content_inner">
+                    <div class="title_outer title_without_animation"    data-height="580">
+		                 <div class="title title_size_medium  position_center  has_fixed_background " style="cinema-3001163_1920.jpg);height:580px;">
+			               <div class="image not_responsive">
+                              <img itemprop="image" src="cinema-3001163_1920.jpg" width="1350" hight="500" alt="&nbsp;" />
+                            </div>
+                          </div>
+                      </div>
+              </div>
+             </a>
+          </div> 
+    
+      <div class="container">
+              <div class="row">
+                  <div class="col-sm-3">
+                      <div class="company_des">
+                          		<div class="moduletable">
+                                    <div class="custom" style="color:#cc66ff"  >
+	                                 <p><a href=" #home page#"><img class="img-responsive" src="icone.jpeg" alt=" Big screen" /></a></p>
+                                         <p style="color:#ccffff" >Big screen is an online entertainment portal tied up with leading theaters across Sri Lanka to provide users the convenience of online  Big screen almost anywhere.</p>
+                                           <p class="copywrite" style="color:#ccffff">© 2020 Big screen. All Rights Reserved.</p><br>
+                                      </div>
+                                    <p><img class="img-responsive" src="eap.png" width="180px" alt="Authorized Partner Theaters" /></p>
+		                          </div> 
+                         </div>
+                      </div>
+                <div class="col-sm-6">
+                      <div class="facebook_wrap">
+                          		<div class="moduletable">
+						           <div class="custom">
+	                                   <div class="fb-page" data-href=" #" data-tabs="timeline" data-width="585" data-height="410" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
+                                 <blockquote cite="https://www.facebook.com" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/"><h3 style="color:#cc66ff">Big screen</h3></a></blockquote>
+                                        </div>
+                                    </div>
+		                          </div>
+	                            </div>
+                             </div>
+                  
+                  <div class="col-sm-3">
+                      <div class="cc_info">
+                          		<div class="moduletable">
+						            <div class="custom"  >
+	                                   <div class="f_item">
+                                           <h2 style="color:#00ffff">Head Office:</h2>
+                                             <address style="color:#ccffff" >No. 35, Dharmapala Mawatha, <br />Colombo 03, Sri Lanka.</address></div>
+                                             <div class="f_item">
+                                              <h6 style="color:#0099ff">Support:</h6>
+                                             <p style="color:#ccffff">Monday - Saturday <br />9:00 am - 6:00 pm<br>+94 702948538 </p>
+                                            </div>
+                                         </div>
+		                             </div>
+                      </div></div></div></div>
+
+                   
+                 
+            
+        
+    
+</body>
+</html>

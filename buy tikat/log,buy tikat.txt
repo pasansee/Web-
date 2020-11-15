@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+    
+   
+	
+    
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+   
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+<base href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" >
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Tak Tik Book, BookMyShow.lk, Book My Show, Ticket Booking Sri Lanka, Movie Tickets, Savoy 3D Online Booking, Liberty Online Booking, EAP Movies, Scope, Online Ticket Booking, Now Showing Movies, Sri Lanka Tickets, Events , Event Tickets, Sri Lanka Movie Theaters, Sri Lanka Movie Theatres" />
+	<meta name="og:title" content="Buy Tickets - Big screen" />
+	<meta name="title" content="Buy Tickets - big screen" />
+	<meta name="og:description" content="Online  Big screen for latest movies in Sri Lanka on BookMyShow.lk." />
+    
+    
+	
+	<meta name="og:image" content="http://127.0.0.1:1821/icone.jpeg">
+	<meta name="image" content="http://127.0.0.1:1821/icone.jpeg">
+    
+    
+    
+    
+    
+    
+    
+	<meta name="Keywords" content="movie tickets in Sri lanka, buy tickets , film tickets , movie tickets , 3d movie tickets" />
+	<meta name="description" content="Online ticket booking for latest movies in Sri Lanka on BookMyShow.lk." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Buy Tickets - Big screen</title>
+	<link href="#########" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<script src="//m2a4a7c7.stackpathcdn.com/media/jui/js/jquery.min.js?9c7aaee1054329dedeb2743b87cc3207" type="text/javascript"></script>
+	<script src="//m2a4a7c7.stackpathcdn.com/media/jui/js/jquery-noconflict.js?9c7aaee1054329dedeb2743b87cc3207" type="text/javascript"></script>
+	<script src="//m2a4a7c7.stackpathcdn.com/media/jui/js/jquery-migrate.min.js?9c7aaee1054329dedeb2743b87cc3207" type="text/javascript"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js" type="text/javascript"></script>
+    
+    
+    
+
+<!--Fonts-->
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" />  
+    
+<link href="//m2a4a7c7.stackpathcdn.com/templates/taktikbook/css/style.css" rel="stylesheet" type="text/css" />
+<!--Animate CSS  -->
+<link href="//m2a4a7c7.stackpathcdn.com/templates/taktikbook/css/animate.css" rel="stylesheet" type="text/css" />   <!-- FOR BOOTSTRAP 3 - Attache Bootstrap 3 - JS -->
+<!-- <script src="/templates//js/bootstrap3.js" ></script>
+ -->
+<!-- Main Menu Scroller -->
+<script src="//m2a4a7c7.stackpathcdn.com/templates/bigscreen /js/scrolling-nav.js" ></script>
+
+<!--[if lt IE 9]>
+<script src="/media/jui/js/html5.js"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<link href="/templates/taktikbook/css/template_IEold.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link href="/templates/taktikbook/css/template_IE8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 9]>
+<link href="/templates/taktikbook/css/template_IE9.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '811004105708523');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=811004105708523&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Global site tag (gtag.js) - AdWords: 1058607660 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1058607660"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1058607660');
+</script>
+<meta name="google-site-verification" content="NGD5-p8xrMM57_HqQBCKMrv45XIYlNDj85kQabKW07s" />
+
+<!--css for popup modal-->
+<!--<style>-->
+<!--.modal-dialog.modal-dialog-centered.modal-lg{-->
+<!--    height: 100%;-->
+<!--    display: flex;-->
+<!--    align-items: center;-->
+<!--    margin-left: auto;-->
+<!--    margin-right: auto;}-->
+
+<!--.modal-dialog {-->
+<!--    width: fit-content;-->
+<!--    margin: 0px auto;-->
+<!--}  -->
+<!--.modal-body {-->
+<!--    padding: 30px 0px 30px 30px;-->
+<!--}-->
+<!--.modal-dialog.modal-dialog-centered.modal-lg button.close {-->
+<!--    -webkit-appearance: none;-->
+<!--    padding: 0px 7px 7px 7px;-->
+<!--    opacity: .7;-->
+<!--    font-size: 30px;-->
+<!--    color: #fff;-->
+<!--    font-weight: 100;-->
+<!--}-->
+<!--.modal-dialog.modal-dialog-centered.modal-lg button.close:hover, .close:focus {-->
+<!--    outline: none;-->
+<!--}-->
+<!--.modal-content {-->
+<!--    box-shadow: none;-->
+<!--    background: transparent;-->
+<!--    border: none;-->
+<!--}-->
+<!--</style>-->
+
+
+</head>  
+<body id="itemid-131">
+    
+    
+    	
+	
+    
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1955100-44', 'auto');
+  ga('send', 'pageview');
+
+</script>  
+ 
+    
+    <!-- Footer Facebook Widget -->
+
+<div id="fb-root"></div>
+<!-- facebook sdk-->
+<script>
+jQuery(document).ready(function($) {
+
+  window.fbAsyncInit = function() {
+    FB.init({
+       appId            : '143117636336024', //TakTikBot APP ID
+       autoLogAppEvents : true,
+       xfbml            : true,
+       version          : 'v2.11'
+    });
+
+    FB.Event.subscribe('messenger_checkbox', function(e) {
+       // console.log("messenger_checkbox event");
+       // console.log(e);
+       
+       if (e.event == 'rendered') {
+          // sessionStorage.render=e.event;
+          $('#rateModel').modal('show');
+          console.log("Plugin was rendered");
+       } else if (e.event == 'checkbox') {
+          var checkboxState = e.state;
+          console.log("Checkbox state: " + checkboxState);
+          if(checkboxState=='checked'){
+            $('.save_messenger').removeClass('disabled');
+          }else{
+            $('.save_messenger').addClass('disabled');
+          }
+       } else if (e.event == 'not_you') {
+          console.log("User clicked 'not you'");
+       } else if (e.event == 'hidden') {
+          console.log("Plugin was hidden");
+       }
+       
+    });
+
+  };
+});
+ (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+
+</script>
+    
+    
+    
+    
+    
+    
+    
+    
+    <style>
+    * { margin: 0; padding:10; }
+
+a { text-decoration: none; }
+
+.clearfix { overflow: auto }
+
+{
+  background-image: url("mulan.jpeg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+}
+{
+  background-image: url("tenet.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+}
+    
+.hero-image {
+    
+ 
+  
+    background-color:(#####) ;   
+     height:200px;
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 100%;
+  left: 100%;
+  transform: translate(100%, 100%);
+  color: white;
+}
+
+
+header .logo {
+	margin-top: 10px;
+	margin-left: 10px; 
+	float: left;
+    
+    
+}
+
+header.logo  { 
+	font-size: 10px;
+	font-weight: normal;
+	letter-spacing: -1px;
+	font-variant: small-caps;
+    padding: 5px;
+}
+
+    
+  .socialmedia { 
+	float: right; 
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+.socialmedia ul { 
+	list-style: none 
+}
+
+.socialmedia ul li { 
+	display: inline 
+}
+
+.socialmedia ul li a {
+	margin-left: 5px;
+	padding: 6px;
+	background: #444;
+	color: #fff;
+	display: inline-block;
+	border-radius: 20px;
+}
+
+.socialmedia ul li a:hover {
+	background:#00ff99 ;
+}  
+    
+  
+
+
+	  
+nav {
+    
+
+	margin-top: 0px;
+	background:#009999;
+	background: linear-gradient(#009999);
+	text-align: center;
+	border-radius: 3px;
+
+    border-style: double;
+    border-width: 10px;
+}
+
+nav ul {
+	list-style:initial;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul li a {
+	color: #fff;
+	text-transform: uppercase;
+	margin: 20px 40px 20px 40px;
+	display: inline-block;
+
+}
+
+nav ul li a:hover {
+	color: sandybrown;
+}
+   
+</style>   
+         
+    
+		
+    
+	
+
+
+    
+    
+    
+    
+
+<!-- End of Facebook Widget -->
+
+
+    <!--Header-->
+    
+           
+    <div class="hero-image">
+
+        
+		<header class="clearfix">
+            
+
+			<div class="logo"><a href="###home page link">
+                <img src= "http://127.0.0.1:1821/icone.jpeg" alt="logo" width="200" ></a>
+ 
+				
+			</div> <!-- logo -->
+
+			</header>
+        
+       <div>
+          
+		 <nav > 
+           
+         <ul class="double">
+                <li><a href="#">Home</a></li>
+				<li><a href="#">Movies </a></li>
+				<li><a href="#">Theaters</a></li>
+				<li><a href="#">Experiences</a></li>
+				<li><a href="#">Blog</a></li>
+                <li><a href="#">Buy Move Tickets</a></li>
+				<li><a href="#">Log In</a></li>
+         </ul>
+        </nav>
+          
+</div>
+        
+    <div>
+        <div class="socialmedia">
+				<ul>
+                    <li><a href="https://www.facebook.com/vitaliagarden/"><i class="fa fa-facebook fa-fw" aria-hidden="true"></i></a>
+					<li><a href="#"><i class="fa fa-instagram  fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-whatsapp fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-snapchat fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-google-plus fa-fw" aria-hidden="true"></i></a></li>
+				</ul>
+			</div> <!-- socialmedia -->
+    </div>
+         </div><br><br><br><br><br>
+    
+    
+    
+    
+<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+
+<link href="//m2a4a7c7.stackpathcdn.com/components/com_movies/assets/css/angular/toaster.css" rel="stylesheet" />
+
+<link rel="stylesheet" href="//m2a4a7c7.stackpathcdn.com/components/com_movies/assets/css/angular/loading-bar.min.css"/>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script> -->
+<script src="//m2a4a7c7.stackpathcdn.com/components/com_movies/assets/js/angular/angular.min.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-animate.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-sanitize.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-cookies.js"></script>
+<script src="https://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-2.1.4.js"></script>
+<script src="//m2a4a7c7.stackpathcdn.com/components/com_movies/assets/js/angular/toaster.js"></script>
+         <script src="//m2a4a7c7.stackpathcdn.com/components/com_movies/assets/js/angular/loading-bar.min.js"></script>
+<script src="//m2a4a7c7.stackpathcdn.com/components/com_movies/assets/js/angular/pickavenue.js"></script>
+
+    <style type="text/css">
+#show-time-table .theater-showtime .disable_time a {
+  color:#282828 !important;
+  cursor: no-drop;
+}
+ .disable_showtime{
+  background-color: #ccc !important;
+  cursor: no-drop;
+}
+
+.form_area_header{
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.form_area_header h5{
+  font-weight: bold;
+    font-size: 24px;
+}
+/*start first form*/
+
+.first_form {
+    padding-top: 100px;
+    min-height: 550px;
+    text-align: center;
+    background: #000;
+}
+    
+.form_area hr{
+    border-top: 1px solid #232323;
+}
+ 
+.form_area{
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+.form_area .row{
+  margin: 10px 0 10px 0;
+}
+.firstbtn{
+    background-color:#00ffff ;
+    border-radius: 38px;
+    color: #fff;
+    display:block;
+    font-size: 18px;
+    font-weight: 700;
+    outline: medium none;
+    padding: 10px 25px;
+    transition: all 150ms ease-in-out 0s;
+    width: 100%;
+    margin-top: 15px;
+    border:none !important;
+}
+.firstbtn:hover,.firstbtn:focus,
+.firstbtn.disabled, .firstbtn.disabled.active, .firstbtn.disabled.focus, .firstbtn.disabled:active, .firstbtn.disabled:focus, .firstbtn.disabled:hover, .firstbtn[disabled], .firstbtn.active[disabled], .firstbtn.focus[disabled], .firstbtn[disabled]:active, .firstbtn[disabled]:focus, .firstbtn[disabled]:hover, fieldset[disabled] .firstbtn, fieldset[disabled] .firstbtn.active, fieldset[disabled] .firstbtn.focus, fieldset[disabled] .firstbtn:active, fieldset[disabled] .firstbtn:focus, fieldset[disabled] .firstbtn:hover
+{
+  background-color:#00ffff;
+  border:none;
+    outline: none;
+}
+
+.first_ticket_count{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-weight: 700;
+    padding: 4px 15px;
+    width: 100%;
+    margin:0 auto;
+    color:#00ffff ;
+    background: #ccc none repeat scroll 0 0;
+    line-height: 24px;
+}
+.label-warning, .label-success{
+    
+    display: block;
+    font-size: 12px !important;
+    margin-top: 5px !important;
+    border-radius: 5px !important;
+}
+.btn-coupon{
+  width: 100%;
+}
+
+.special_show{
+  font-size: 10px !important;
+}
+.special_area{
+  margin-left: -8px;
+}
+.theater-showtime ul li {
+    display: inline;
+    list-style: outside none none;
+    margin: 0;
+    vertical-align: top;
+}
+#show-time-table .theater-showtime a {
+  text-align: center;
+}
+.newform{
+  margin-bottom: 70px;
+
+         
+    </style>
+    
+    
+    
+<script type="text/javascript">
+    window.data= {mid:0,stripmovie:0,movie_date:'0',is_special:0};
+</script>
+
+<div ng-app="myApp" ng-controller="TicketCtrl" ng-init="init('data')" class="ng-cloak">
+
+
+    <div class="main-slider">
+      <img ng-if="reservation.trailer_img" class="img-responsive" src="/{{reservation.trailer_img}}" alt="Inner Banner">
+      <img ng-if="!reservation.trailer_img" class="img-responsive" src="https://photos5.appleinsider.com/gallery/37286-69962-200821-Mulan-l.jpg" alt="Inner Banner">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <form id="now-showing-list">
+              <select class="form-control" name="mid"  ng-change="getShowTimes(reservation.mid,reservation.date)" ng-required="true" id="mid" ng-model="reservation.mid" class="form-control" ng-options="movie.mid as movie.m_name for movie in movie_list">
+  
+              </select>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+   
+    <div id="show-date-outer" ng-if="is_special==0">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div id="date-container">
+              <ul class="list-inline list-unstyled">
+
+                <li class="datepick" ng-class="{'active':reservation.date==dates}" ng-repeat="(dkey,dates) in date_range" ng-click="getShowTimes(reservation.mid,dates)">
+                  
+                    <div class="month-wp">{{dates | date:'MMM'}}</div>
+                    <div class="date-wp">{{dates | date:'dd'}}</div>
+                    <div class="day-wp">{{dates | date:'EEE'}}</div>
+                  
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="show-date-outer" ng-if="is_special==1">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div id="date-container">
+              <ul class="list-inline list-unstyled">
+
+                <li class="datepick" ng-class="{'active':reservation.date==reservation.date}">
+                  
+                    <div class="month-wp">{{reservation.date | date:'MMM'}}</div>
+                    <div class="date-wp">{{reservation.date | date:'dd'}}</div>
+                    <div class="day-wp">{{reservation.date | date:'EEE'}}</div>
+                  
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="show-time-table">
+              <div class="veil" ng-show="isLoading"></div>
+              <div class="feedLoading" ng-show="isLoading">
+              <!-- <img src="https://www.colopainclinic.com/images/common/loading.gif" alt=""> -->
+              </div>
+      <div class="container">
+        <div class="row">
+          <table class="table table-responsive">
+            <tbody>
+              <tr ng-repeat="(tkey,theater) in theaters_show_times" ng-class='{firsttheaterrow:$first}'>
+                <td class="theater" >
+                  <div class="theater-name">{{theater.t_name}} </div>
+                  <div class="theater-city">{{theater.t_city}}</div>
+                </td>
+                <td class="theater-showtime" colspan="5" >
+                    <ul>
+                      <li class="one-theater-showtime" ng-click="times.status==1 && showTimeClick(tkey,skey,times.is_special,times.special_description, times.scope_show_id,theater.scope_source,theater.scope_location)"  ng-repeat="(skey,times) in theater.showtimes" ng-class="{'disable_time':times.status==0}">
+                      <a ng-disabled="times.status==0" >
+                      {{toTime(times.showtime_name) | date:'h:mm a'}}
+                        <br/>
+                         <span ng-if="times.is_special==1">
+                          <span class="label label-danger special_show">SPECIAL SHOW (Open to Public)</span>
+                         </span>
+                      </a>
+                      
+     
+                      
+                      
+                      </li>
+                    </ul>
+              </tr>
+
+            </tbody>
+          </table>
+<div ng-if="isEmpty(theaters_show_times) && reservation.error_message" class="alert alert-danger alert-dismissible" role="alert">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  <!-- Showtimes not available for the selected date. (Theaters are closed on Poya Days) -->
+  {{reservation.error_message}}
+</div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <!-- Modal -->
+    <script type="text/ng-template" id="ticketInfo.html">
+    <div class="" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+      <div class="modal-dialog" role="document">
+
+        <!--first start-->
+        <div class="modal-content" ng-if="clickfinish==0">
+
+        <div class="modal-header">
+            <h6>TICKETS</h6>
+            <button type="button" class="close" ng-click="cancel()" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        </div>
+
+        <div class="first_form">
+        <div class="veiltwo" ng-if="seatloading"></div>
+        <div class="feedLoadingtwo" ng-if="seatloading">
+       <!--  <img src="https://localhost/bookmyshow/images/bTy6X4bTL.gif" alt=""> -->
+       <img src="https://www.taktikbook.lk/components/com_movies/includes/images/movies/movies_1043/movies_1043_5e5371d280c90_mulan_bt.jpg" alt="">
+        </div>
+          <div class="container-fluid">
+         <div class="row" ng-show="!sheet_category">
+                  <div class="form_area_header" >
+                        <h5>SORRY!</h5>
+                  </div>
+                    <div class="col-md-6 col-md-offset-3 form_area">
+                  
+                        <div class="row">
+
+                              <div class="form-group">
+                                <div class="no_rate_Card">No rate allocated for this showtime. Please check back again later.!</div>
+                              </div>
+
+                        </div>
+
+                    </div>
+          </div>  
+            <div class="row" ng-show="sheet_category">
+                      <div class="form_area_header" >
+                        <h5>HOW MANY TICKETS ?</h5>
+                      </div>
+            <div class="col-md-6 col-md-offset-3 form_area">
+              
+                <div class="row">
+
+                      <div class="form-group">
+
+                          <div class="col-sm-4">
+                            <label>No. Of Full Tickets</label>
+                            <select class="form-control" ng-change="changeFullTicket(reservation.full_tickets_count)" ng-model="reservation.full_tickets_count">
+                              <option ng-repeat="count in count_list" value="{{count}}">{{count}}</option>
+                            </select>
+                          </div>
+                          <div class="col-sm-4" ng-if="reservation.category_type!=1">
+                            <label>No. Of Half Tickets</label>
+                            <select class="form-control" ng-change="changeHalfTicket(reservation.half_tickets_count)" ng-model="reservation.half_tickets_count" ng-disabled="(reservation.adult!=1)?false:true">
+                              <option ng-repeat="count in count_list" value="{{count}}">{{count}}</option>
+                            </select>
+                          </div>
+
+                          <div class="col-sm-4">
+                             <label>Total Tickets</label>
+                             <div class="first_ticket_count">{{reservation.total_tickets_count}}</div>
+                          </div>
+                      </div>
+                </div>
+      
+                <div class="row">
+                      <div class="form-group">
+
+                          <div class="col-sm-8">
+                            <input type="text" class="form-control" placeholder="Coupon Code" ng-model="reservation.coupon_code">
+                            <span ng-if="coupon_data.message" calss="error_first_form label" ng-class="{'label-warning':coupon_data.status==0,'label-success':coupon_data.status==1}">{{coupon_data.message}}</span>
+                          </div>
+                          <div class="col-sm-2" >
+                          <button class="btn btn-success btn-coupon" ng-click="checkCouponValidity()" ng-disabled="!reservation.coupon_code">APPLY</button>
+                          </div>
+                          <div class="col-sm-2" >
+                          <button class="btn btn-danger btn-coupon" ng-click="removeCoupon()" ng-disabled="!reservation.coupon_code">X</button>
+                          </div>
+                      </div>
+                </div> 
+                <hr>
+                <div class="row">
+                      <div class="form-group">
+                          <div class="col-sm-12">
+                             <button  ng-click="setFinish()" class="btn btn-primary firstbtn">CONTINUE</button>
+                          </div>
+
+                      </div>
+                      <br><br>
+                  </div>
+               </div>
+
+
+
+            </div>
+
+            <br/>
+            <div class="row" ng-show="reservation.is_special==1">
+              <div class="col-md-6 col-md-offset-3 form_area newform" ng-bind-html="reservation.special_description">
+            
+              </div>  
+              <br/>              
+
+
+            </div>
+          </div>
+        </div>
+
+
+        </div>
+
+
+        <!--first end-->
+
+
+        <!--second start-->
+        <div class="modal-content" ng-if="clickfinish">
+        {{setLoading(false)}}
+          <div class="modal-header">
+            <div ng-click="cancel()" class="back-btn-wrapper">
+              <h6><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Showtimes</h6>
+            </div>
+            <button type="button" class="close" ng-click="cancel()" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+
+          <div class="modal-body">
+            <div id="top-wrapper">
+              <div class="container-fluid">
+                              <toaster-container toaster-options="{'time-out': 3000, 
+                'position-class': 'toast-top-right','close-button':true}">
+                  
+                </toaster-container>
+              <form role="form" class="form-horizontal popup-form" id="tform" action="https://taktikbook.lk/index.php?option=com_movies&controller=ticket&task=saveBooking" method="POST">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+                    <div class="select-movie-data">
+                      <h2>{{reservation.movie_name}}</h2>
+                      <h4>{{reservation.theater_name}} , {{reservation.theater_city}}</h4>
+                    </div>
+
+                  </div>
+
+                  
+                  <div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+                      <div class="form-group">
+                        <div class="col-sm-3">
+                          <label>No. Of Full Tickets</label>
+                          <select class="form-control" ng-change="changeFullTicket(reservation.full_tickets_count)" ng-model="reservation.full_tickets_count">
+                            <option ng-repeat="count in count_list" value="{{count}}">{{count}}</option>
+                          </select>
+                        </div>
+                        <div class="col-sm-3" ng-if="reservation.category_type!=1">
+                          <label>No. Of Half Tickets</label>
+                          <select class="form-control" ng-change="changeHalfTicket(reservation.half_tickets_count)" ng-model="reservation.half_tickets_count" ng-disabled="(reservation.adult!=1)?false:true">
+                            <option ng-repeat="count in count_list" value="{{count}}">{{count}}</option>
+                          </select>
+                        </div>
+
+                      <div class="col-sm-3">
+                         <label>No. Of Full Tickets</label>
+                         <div class="ticket_count">{{reservation.total_tickets_count}}</div>
+                      </div>
+                    </div>
+
+                    
+                    <h4>Showtime</h4>
+                    <div class="btn-group btn-group-lg" role="group" aria-label="...">
+                      <button ng-class="{'selected_show_time':skey==reservation.showtime,'disable_showtime':show_times.status==0}" ng-repeat="(skey,show_times) in current_show_times" type="button" ng-click="show_times.status==1 && showTimeChange(skey,show_times.is_special,show_times.scope_show_id)" class="btn btn-default">{{toTime(show_times.showtime_name) | date:'h:mm a'}}</button>
+                    </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+                  <button ng-class="{'disabled_next':reservation.total_tickets_count!=reservation.selected_seats.length || reservation.total_tickets_count==0}" ng-disabled="reservation.total_tickets_count!=reservation.selected_seats.length || reservation.total_tickets_count==0" class="next-btn topbtn hidden-xs" type="submit" ng-click="checkSeatsAvailableFront($event)">Next</button>
+                  </div>
+                  <input type="hidden" name="re_select_movie" value="{{reservation.mid}}" />
+                  <input type="hidden" name="re_select_theater" value="{{reservation.theater}}" />
+                  <input type="hidden" name="re_select_category" value="{{reservation.category_id}}" />
+                  <input type="hidden" name="re_select_showtime" value="{{reservation.showtime}}" />
+                  <input type="hidden" name="scope_cat_id" value="{{reservation.scope_cat_id}}" />
+                  <input type="hidden" name="scope_show_id" value="{{reservation.scope_show_id}}" />
+                  <input type="hidden" name="scope_source" value="{{reservation.scope_source}}" />
+                  <input type="hidden" name="scope_location" value="{{reservation.scope_location}}" />
+                  <input type="hidden" name="bx_date" value="{{reservation.date}}" />
+                  <input type="hidden" name="re_select_fullseats" value="{{reservation.full_tickets_count}}" />
+                  <input type="hidden" name="re_select_halfseats" value="{{reservation.half_tickets_count}}" />
+                  <input type="hidden" name="re_select_nseats" value="{{reservation.total_tickets_count}}" />
+                  <input type="hidden" name="is_special" value="{{reservation.is_special}}" />
+                  <input type="hidden" name="affiliate_id" value="{{reservation.affiliate_id}}" />
+
+                  <input ng-repeat="re_seat in reservation.selected_seats" type="hidden" name="re_seat[]" value="{{re_seat.seat_id}}" />
+                  <input ng-repeat="re_scope_seat in reservation.selected_scope_seats" type="hidden" name="re_scope_seat[]" value="{{re_scope_seat.scope_seat_id}}" />
+
+                  
+
+
+                </div>
+                </form>
+              </div>
+            </div>
+          </div>
+          <div id="show-date-outer" class="popup-show-date-outer">
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 date-left">
+                  <h4>{{reservation.date | date:'MMMM'}} {{reservation.date | date:'dd'}} {{reservation.date | date:'EEEE'}},  {{reservation.date | date:'yyyy'}} 
+                         <span ng-show="reservation.is_special==1">
+                            <div class="label label-danger "> SPECIAL SHOW (Open to Public)</div>
+                         </span>
+                  </h4>
+                </div>
+                <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 total-right">
+                  <h4 ng-if="reservation.total_amount">Total : <span class="text-spe">Rs. {{reservation.total_amount}}</span></h4>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="popup-seat-plan-wrapper" >
+              <div class="container-fluid">
+                <div class="row">
+
+<!--                   <div class="screen_area">
+                      <span>THEATER SCREEN</span>
+                  </div> -->
+                  
+                  <div class="veiltwo" ng-if="seatloading"></div>
+                  <div class="feedLoadingtwo" ng-if="seatloading">
+                  </div>
+
+                    <div class="col-sm-12">
+                  <br/>
+                  <div ng-if="reservation.error_status==1" class="alert alert-danger alert-dismissible" role="alert"><!-- 
+                  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
+                  <strong>Sorry !!</strong> Some of your seats has been BOOKED (by another). Please try again..
+                  </div>
+
+                  
+
+          
+                        <div class="table-responsive">
+
+                            <div ng-repeat="(ckey,category) in sheet_category">
+                            <h3 class="seat_category_name">{{category.name}}
+                            <br/> <small class="category_price">( <span>F. Rs.{{category.f_price}}</span> <span ng-if="category.type==0">/ H. Rs.{{category.h_price}}</span>  )</small></h3 >
+                            <table class="table seat_plan_wrap"  >
+                                <tr>
+                                  <td colspan="2">
+                                      <div class="screen_area">
+                                          <span>THEATER SCREEN</span>
+                                      </div>
+                                  </td>
+                                </tr>
+                                <tr ng-repeat="(rkey,rows) in category.seats_rows">
+
+                                    <td>
+                                        <div class="seat_right_row" ng-if="category.type!=1">{{rows.alias | limitTo: 1}}</div>
+                                        <div class="seat_right_row" ng-if="category.type==1"></div>
+                                    </td>
+
+                                    <td class="seat_row">
+
+                                        <span class="seat" ng-repeat="(clkey,columns) in category.seats_columns">
+
+                                        <div ng-repeat="(shkey,seat) in category.seats | filter:{row:rows.row_index, column:columns.column_index}:true" ng-class="{'not_available_seat':seat.availability==1,'selected_seat':seat.availability==3}">
+
+                                              <a ng-disabled="seat.availability==1" ng-click="addReservationSeat(category.cid,category.scope_cat_id,seat.id,seat.id_scope,shkey)">
+                                                
+                                                
+                                                {{seat.alias}}
+
+                                              </a>
+                                        </div>
+
+                                        </span>
+                                    </td>
+
+                                </tr>
+
+                              </table>                             
+                              
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                  
+                  
+                  
+                  
+              </div>
+        </div>
+
+        
+        <div id="bottom-next-wrapper">
+          <button ng-class="{'disabled_next':reservation.total_tickets_count!=reservation.selected_seats.length || reservation.total_tickets_count==0}" ng-disabled="reservation.total_tickets_count!=reservation.selected_seats.length || reservation.total_tickets_count==0" class="next-btn" type="submit" ng-click="checkSeatsAvailableFront($event)">Next</button>
+        </div>
+
+        </div>
+
+        <!--second end-->
+
+
+      </div>
+    </div>
+     </script>
+</div>
+
+<!-- <div class="container">
+  <div class="wrapper-inner">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <h1>Pick a venue</h1>
+        <div ng-app="myApp" ng-controller="TicketCtrl" ng-init="init()">
+
+          <select name="mid"  ng-change="getShowTimes(reservation.mid,reservation.date)" ng-required="true" id="mid" ng-model="reservation.mid" class="form-control" ng-options="movie.mid as movie.m_name for movie in movie_list">
+          </select>
+          <br/>
+        <p class="input-group">
+          <input type="text" class="form-control" uib-datepicker-popup ng-model="reservation.date" ng-change="getShowTimes(reservation.mid,reservation.date)" is-open="popup2.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close"/>
+          <span class="input-group-btn">
+            <button type="button" class="btn btn-default" ng-click="open2()"><i class="glyphicon glyphicon-calendar"></i></button>
+          </span>
+        </p>
+       
+
+          <hr/>
+          <div class="show_times">
+          <table width="100%">
+
+              <tr ng-repeat="(tkey,theater) in theaters_show_times" style="border-bottom:1px solid #ccc;margin-bottom:20px">
+                <td style="vertical-align: top;">
+                <b>{{theater.t_name}}</b><br/>
+                <small><i>{{theater.t_city}}</i></small>
+                </td>
+                <td style="vertical-align: top;">
+                    <ul>
+                      <li ng-click="showTimeClick(tkey,skey)" ng-repeat="(skey,times) in theater.showtimes">{{times.showtime_name}}</li>
+                    </ul>
+                </td>
+              </tr>
+
+          </table>
+          <p ng-if="isEmpty(theaters_show_times)">Show Time Not Available..</p>
+          <br/>
+          <script type="text/ng-template" id="ticketInfo.html">
+              <div class="modal-header">
+                  <h3 class="modal-title" id="modal-title">{{reservation.movie_name}}</h3>
+                  <small>{{reservation.theater_name}} | {{reservation.theater_city}}</small>
+              </div>
+
+              <div class="modal-body" id="modal-body">
+                  <p>Show Times</p>
+                  <ul>
+                    <li ng-class="{'selected_show_time':skey==reservation.showtime}" ng-repeat="(skey,show_times) in current_show_times"> {{show_times.showtime_name}}</li>
+                  </ul>
+              </div>
+
+
+          </script>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div> --> 
+    
+      
+      <div class="movie_add_banner">
+      	 
+      </div>  
+      
+      <!--All Page ads axcept home-->
+          
+        <div class="movie_add_banner">
+          			<div class="moduletable">
+						<div id="myCarousel" class="carousel carousel-fade" data-ride="carousel">
+
+	<!-- Wrapper for slides -->
+	<div class="carousel-inner">
+
+	
+	</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+
+  jQuery(document).ready(function($){
+
+    $('.ad-click').live("click", function() {
+
+      var ad_id = $('.ad_id').val();
+       // alert(ad_id);
+       // var currentObj = jQuery(this);
+       // //send ajax request here
+
+       $.ajax({
+         type: "POST",
+         url: "index.php?option=com_am_advertisments&task=advertisment.getAdHits&format",
+         data: "ad_id="+ad_id,
+         success: function(result) {
+            //remove row ajax success event
+
+          }
+        });
+
+     });
+
+  });
+</script>
+		</div>
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p> </p>
+<div class="container">
+<p style="border: 1px; border-style: solid; border-color: #dc5151; padding: 25px; color: #dc5151;"><strong>NOTICE</strong><br /> Due to the ongoing coronavirus pandemic all theaters will ensure strict measures of health and safety for the benefits of everyone. Thus, we regret to inform that all theaters operating under Scope Cinemas, Milano Diamond, Gold in kegalle and Savoy Cinemas will remain closed till further notice. Usual show times will not function as normal and will be cancelled. Therefore, online booking will be temporarily suspended. Individuals who have purchased tickets are kindly requested to follow the instructions given when contacted via telephone to receive refunds. We thank you for your patience during this time and apologize for any inconvenience caused.     </p>
+     
+</div></div>
+		</div>
+	 
+        </div>  
+      
+          
+	 <!--Advertising footer-->
+      <div class="ad_wrapper wow fadeInRight" style="visibility: visible; animation-delay: 0.3s;" data-wow-delay="0.3s">
+          <div class="container-fluid">
+               
+          </div>
+      </div>
+      
+      <!--Footer -->
+      <footer>
+          <div class="container">
+              <div class="row">
+                  <div class="col-sm-3">
+                      <div class="company_des">
+                          		<div class="moduletable">
+	<div class="custom"  >
+	<p><a href="https://taktikbook.lk/"><img class="img-responsive" src="http://127.0.0.1:1821/icone.jpeg" alt="BIG SCREEN" /></a></p>
+<p>Tak Tik Book is an online entertainment portal tied up with leading theaters across Sri Lanka to provide users the convenience of online ticket booking almost anywhere.</p>
+<p class="copywrite">© 2020 Big Screen. All Rights Reserved.</p>
+<p><img class="img-responsive" src="https://www.taktikbook.lk/components/com_movies/includes/images/movies/movies_1043/movies_1043_5e5371d280c90_mulan_bt.jpg" alt="Authorized Partner Theaters" /></p></div>
+		</div>
+	 
+                      </div>
+                  </div>
+                  <div class="col-sm-6">
+                      <div class="facebook_wrap">
+                          		<div class="moduletable">
+						
+
+<div class="custom"><iframe width="560" height="315" src="https://www.youtube.com/embed/XrAmQS9jJJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+	
+<blockquote cite="https://www.facebook.com/TakTikBook/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TakTikBook/">Big screen</a></blockquote>
+</div>
+		</div>
+	 
+                      </div>
+                  </div>
+                  <div class="col-sm-3">
+                      <div class="cc_info">
+                          		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="f_item">
+<h6>Head Office:</h6>
+<address>No. 35, Dharmapala Mawatha, <br />Colombo 03, Sri Lanka.</address></div>
+<div class="f_item">
+<h6>Support:</h6>
+
+<p>Monday - Saturday <br />9:00 am - 6:00 pm</p>
+</div>
+<div class="f_item">
+<h6>Marketing &amp; Advertising:</h6>
+<span id="cloak5aaa13ffe873f2d7ebb4f522e0ff4d12">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak5aaa13ffe873f2d7ebb4f522e0ff4d12').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy5aaa13ffe873f2d7ebb4f522e0ff4d12 = 's&#97;l&#101;s' + '&#64;';
+				addy5aaa13ffe873f2d7ebb4f522e0ff4d12 = addy5aaa13ffe873f2d7ebb4f522e0ff4d12 + 't&#97;kt&#105;kb&#111;&#111;k' + '&#46;' + 'lk';
+				var addy_text5aaa13ffe873f2d7ebb4f522e0ff4d12 = 's&#97;l&#101;s' + '&#64;' + 't&#97;kt&#105;kb&#111;&#111;k' + '&#46;' + 'lk';document.getElementById('cloak5aaa13ffe873f2d7ebb4f522e0ff4d12').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy5aaa13ffe873f2d7ebb4f522e0ff4d12 + '\'>'+addy_text5aaa13ffe873f2d7ebb4f522e0ff4d12+'<\/a>';
+		</script></div></div>
+		</div>
+	 
+                      </div>
+                  </div>
+              </div>  
+          </div>
+    </footer>
+ 
+</body>
+</html>					
