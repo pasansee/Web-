@@ -1,0 +1,225 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Theaters</title>
+	<link rel="stylesheet" href="stylesheet.css">
+
+<style>
+.outer1{
+	border:1px solid black;
+	width:1400px;
+	height:400px;
+	margin-left:50px;
+}
+.outer2{
+	border:1px solid black;
+	width:1400px;
+	height:400px;
+	margin-left:50px;
+}
+.inner1{
+
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+}
+.inner2{
+	
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+}
+.inner3{
+	
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+}
+.inner4{
+	
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+	
+}
+.inner5{
+	
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+}
+.inner6{
+	
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+}
+.inner7{
+	
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+}
+.inner8{
+	
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+	
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+img {
+    width:325px;
+    height:250px;
+}
+body{
+     background-color:black;
+}
+
+	</style>
+
+
+</head>
+
+	
+	<div class="hero-image">
+        
+
+		<header class="clearfix">
+			<div class="logo"><a href="###home page link">
+                <img src= "icone.jpeg" alt="logo" width="150" ></a>
+ 
+				
+			</div> <!-- logo -->
+
+			</header>
+        
+       <div>
+          
+		 <nav > 
+           
+         <ul class="double">
+                <li><a href="#">Home</a></li>
+				<li><a href="#">Movies </a></li>
+				<li><a href="#">Theaters</a></li>
+				<li><a href="#">Experiences</a></li>
+				<li><a href="#">Blog</a></li>
+                <li><a href="#">Buy Move Tickets</a></li>
+				<li><a href="#">Log In</a></li>
+         </ul>
+        </nav>
+          
+</div>
+        
+    <div>
+        <div class="socialmedia">
+				<ul>
+					<li><a href="https://www.facebook.com/vitaliagarden/"><i class="fa fa-facebook fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-instagram  fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-whatsapp fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-snapchat fa-fw" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-google-plus fa-fw" aria-hidden="true"></i></a></li>
+				</ul>
+			</div> <!-- socialmedia -->
+    </div>
+	
+	</div>
+	<br><br>
+	<h1 style="color: white;">THEATERS</h1>
+<hr>
+<br>
+
+<div class="outer1">
+<div class="inner1">
+ <a target="_blank" href="https://tse2.mm.bing.net/th?id=OIP.WDRhElKA1cyE4UBDb0v0AAAAAA&pid=Api&P=0&w=250&h=157">
+      <img src="https://tse2.mm.bing.net/th?id=OIP.WDRhElKA1cyE4UBDb0v0AAAAAA&pid=Api&P=0&w=250&h=157" width="500" height="200">
+    </a>
+    <div class="desc"> <p style="color:white;"><b> Savoy 3D Dolby  Wellawatte</b> <br><br>No 12,Savoy Building, Wellwatte. <br>
+   Phone: +94117444466<br>  <a href= "http://www.savoymanager@eapmovies.com"> Email </a> </p></div>
+    
+
+</div>
+<div class="inner2">
+<a target="_blank" href="https://tse3.mm.bing.net/th?id=OIP.SEz9dUXN85k0E6f3Sb3J6QHaDt&pid=Api&P=0&w=370&h=186">
+      <img src="https://tse3.mm.bing.net/th?id=OIP.SEz9dUXN85k0E6f3Sb3J6QHaDt&pid=Api&P=0&w=370&h=186"  width="500" height="200">
+    </a>
+    <div class="desc"> <p style="color:white;"> <b>Savoy Premium Wellawatte</b><br><br> Ramakrishna Road,Wellawatte<br>
+    Phone: +94117446223<br>  <a href= "http://www.savoypremiere@eapmovies.com"> Email </a>
+
+</p></div>
+
+</div>
+<div class="inner3">
+<a target="_blank" href="https://tse3.mm.bing.net/th?id=OIP.xy6yR-wZ05Kjuu2sE0kMpwHaEK&pid=Api&P=0&w=309&h=175">
+      <img src="https://tse3.mm.bing.net/th?id=OIP.xy6yR-wZ05Kjuu2sE0kMpwHaEK&pid=Api&P=0&w=309&h=175" width="500" height="200">
+    </a>
+    <div class="desc"><p style="color:white;"> <b>Colombo City Center, Scope Cinema</b> <br><br>137,Sir James Pieris Mawatha,Colombo 02<br>
+    Phone: +94112083064<br> <a href= "http://www.managerccc@scopecinemas.com"> Email </a> </p> </div>
+
+</div>
+<div class="inner4">
+<a target="_blank" href="https://2.bp.blogspot.com/-K6g0PtC8RQU/VXj2XvqstnI/AAAAAAAAAHs/wLzAO_LUDBI/s1600/5.JPG">
+      <img src="https://2.bp.blogspot.com/-K6g0PtC8RQU/VXj2XvqstnI/AAAAAAAAAHs/wLzAO_LUDBI/s1600/5.JPG"  width="500" height="200">
+    </a>
+    <div class="desc"><p style="color:white;"> <b>Cinemax Ja-ela</b> <br><br> No 165, Reality Plaza, Colombo Road, Ja-ela<br>
+    Phone: +94117549650<br> <a href= "http://www.cinemax@eapmovies.com"> Email </a></p></div>
+
+</div>
+
+</div>
+<br><br>
+
+<div class="outer2">
+<div class="inner5">
+ <a target="_blank" href="https://tse4.mm.bing.net/th?id=OIP.1joZxFlIDlFinQYuYf5S2wHaL7&pid=Api&P=0&w=300&h=300">
+      <img src="https://tse4.mm.bing.net/th?id=OIP.1joZxFlIDlFinQYuYf5S2wHaL7&pid=Api&P=0&w=300&h=300"  width="400" height="200">
+    </a>
+    <div class="desc"><p style="color:white;"><b>Tower  Moratuwa </b><br><br> No 670,Galle road, Moratuwa<br>
+    Phone: +94117432434<br>  <a href= "http://www.tower@eapmovies.com"> Email </a></p></div>
+
+
+</div>
+<div class="inner6">
+<a target="_blank" href="https://tse2.mm.bing.net/th?id=OIP.x_RKjUFy2asdLtVgiIsmdQHaEI&pid=Api&P=0&w=295&h=165">
+      <img src="https://tse2.mm.bing.net/th?id=OIP.x_RKjUFy2asdLtVgiIsmdQHaEI&pid=Api&P=0&w=295&h=165" height="200">
+    </a>
+    <div class="desc"><p style="color:white;"> <b>Colombo City Center Screen 02</b><br><br>137,Sir James Pieris Mawatha, Colombo2<br>
+    Phone: +94112083064<br> <a href= "http://www.managerccc@scopecinemas.com"> Email</a></p></div>
+
+</div>
+<div class="inner7">
+ <a target="_blank" href="https://tse2.mm.bing.net/th?id=OIP.uOxzOGlRxLLawQDsrU132QHaDj&pid=Api&P=0&w=375&h=180">
+      <img src="https://tse2.mm.bing.net/th?id=OIP.uOxzOGlRxLLawQDsrU132QHaDj&pid=Api&P=0&w=375&h=180" height="200">
+    </a>
+    <div class="desc"><p style="color:white;"> <b>Savoy 2 Wellawatte</b> <br><br> No 12,Savoy Building, Wellwatte,Colombo 6<br>
+    Phone: +94117444466<br> <a href= "http://www.savoymanager@eapmovies.com"> Email</a> </p></div>
+
+</div>
+<div class="inner8">
+<a target="_blank" href="https://tse1.mm.bing.net/th?id=OIP.ZuYrFdp4Ltf5XRLcVmw42gHaEK&pid=Api&P=0&w=300&h=170">
+      <img src="https://tse1.mm.bing.net/th?id=OIP.ZuYrFdp4Ltf5XRLcVmw42gHaEK&pid=Api&P=0&w=300&h=170" height="200">
+    </a>
+    <div class="desc"><p style="color:white;"><b>Liberty Screen 2 Colombo 03</b><br><br>No.35,Srimath Anagarika Dharmapala Mawatha<br>Colombo 03
+    Phone: +94112325266<br> <a href= "http://www.waruna@scopecinemas.com"> Email</a> </p></div>
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
